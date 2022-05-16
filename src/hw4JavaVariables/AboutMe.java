@@ -1,6 +1,6 @@
 package hw4JavaVariables;
 
-// Variable declared
+// Variable Declared
 public class AboutMe {
 	public String name;
 	public byte age;
@@ -12,12 +12,12 @@ public class AboutMe {
 	public char sex;
 	public boolean married;
 
+	//// Constructor Declared 
 	public AboutMe() {
-		// Constructor declared 
-		System.out.println("\nThis is all about us:\n");
+			System.out.println("\nThis is all about us:\n");
 
 	}
-	// Method is implemented 
+	// Method is Implemented 
 	public void aboutMe() {
 		System.out.println("Name: " + name + "\nAge: " + age + "\nSex: " + sex + "\nMarried : " + married + "\nHeight: "
 				+ height + "\nRent: " + rent + "\nSalary: " + salary + "\nBankbalance: " + bankBalance + "\nGPA: "
