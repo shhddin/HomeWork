@@ -2,9 +2,11 @@ package hw8Inheritance;
 
 public class AnimalTest {
 	public static void main(String[] args) {
-		// Animal Class is the parent Class of Mammal, Reptile and Bird Class
-		// (Hierarchical Inheritance) Mammal extends Animal, Reptile extends Animal,
-		// Birds extends Animal
+		/*
+		 * Animal Class is the parent Class of Mammal, Reptile and Bird Class.
+		 * (Hierarchical Inheritance) Mammal extends Animal, Reptile extends Animal,
+		 * Birds extends Animal.
+		 */
 		Animal animal = new Animal();
 		animal.animalInfo();
 
