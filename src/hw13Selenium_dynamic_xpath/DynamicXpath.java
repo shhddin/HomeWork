@@ -73,13 +73,13 @@ class DynamicXpath {
 	 */
 	
 	
-/* 9) Starts with attribute (not commonly used, no need to practice it)
- * //a[starts-with(@class,'thrd')]
- * //a[starts-with(@class,'textual-display')]
- * //input[starts-with(@id,'userid')]
- * //input[starts-with(@id,'Email')]
- * //input[starts-with(@id,'password')]
- */
+	/* 9) Starts with attribute (not commonly used, no need to practice it)
+	 * //a[starts-with(@class,'thrd')]
+	 * //a[starts-with(@class,'textual-display')]
+	 * //input[starts-with(@id,'userid')]
+	 * //input[starts-with(@id,'Email')]
+	 * //input[starts-with(@id,'password')]
+	 */
 	
 	
 	
